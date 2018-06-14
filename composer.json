@@ -1,0 +1,13 @@
+{
+    "name": "getcommerce/magento-admin-payments",
+    "type": "magento-module",
+    "version": "dev-master",
+    "require": {
+        "magento-hackathon/magento-composer-installer": "*"
+    },
+    "extra": {
+        "map": [
+            []
+        ]
+    }
+}
