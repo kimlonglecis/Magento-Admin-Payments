@@ -4,10 +4,5 @@
     "version": "dev-master",
     "require": {
         "magento-hackathon/magento-composer-installer": "*"
-    },
-    "extra": {
-        "map": [
-            []
-        ]
     }
 }
